@@ -1,0 +1,17 @@
+{
+    "image": {
+        "url": "/img/photo/home-great-experience.jpg",
+        "alt": "img"
+    },
+    "number": {
+        "value": "15",
+        "label": "<span class=\"mil-marker\">Days</span> and<br/>your project<br/>is live!"
+    },
+    "title": "Great experience",
+    "subtitle": "About Studio",
+    "description": "We combine years of experience in technological development with the ability to quickly adapt to market changes. Every project we take on is backed by a passionate and dedicated team focused on driving the efficiency of your business.",
+    "button": {
+        "link": "https://www.youtube.com/watch?v=HR4giV4oUjI",
+        "label": "Watch video"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "title": "What We Have Done",
+    "subtitle": "Work",
+    "description": "En SM, nos espacializamos en mejorar la presencia online de las empresas. Nuestro enfoque combina el diseño centrado en el usuario, las últimas tecnologías web y la inteligencia artificial, adaptándonos a las necesidades de tu negocio para ofrecier soluciones personalizadas y siempre a la vanguardia tecnológica.",
+    "button": {
+        "label": "See Projects",
+        "link": "/portfolio"
+    },
+    "items": [
+        {
+            "image": "/img/photo/have-done-1.jpg",
+            "alt": "image"
+        },
+        {
+            "image": "/img/photo/have-done-2.jpg",
+            "alt": "image"
+        },
+        {
+            "image": "/img/photo/have-done-3.jpg",
+            "alt": "image"
+        }
+    ]
+}

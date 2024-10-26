@@ -1,0 +1,38 @@
+{
+    "title": "We provide services <span class=\"mil-marker\">and</span> solutions",
+    "subtitle": "Our Company",
+    "description": "En SM, ofrecemos soluciones integrales que abarcan desde el diseño y desarrollo web hasta la optimización SEO y la implementación de inteligencia artificial en tus procesos digitales. Nos enfocamos en impulsar la transformación digital de tu empresa, ayudándote a alcanzar tus objetivos comerciales de manera eficiente y escalable.",
+    "signature": {
+        "name": "Nazar Shypot",
+        "subname": "CEO of SM",
+        "text": "N.Shypot :')"
+    },
+    "links": [
+        {
+            "title": "Morphological Thinking",
+            "link": "/services/service-1"
+        },
+        {
+            "title": "Creative Architectural",
+            "link": "/services/service-2"
+        },
+        {
+            "title": "Planning Designs",
+            "link": "/services/service-3"
+        }
+    ],
+    "items": [
+        {
+            "image": "/img/photo/have-done-4.jpg",
+            "alt": "image 1"
+        },
+        {
+            "image": "/img/photo/have-done-5.jpg",
+            "alt": "image 2"
+        },
+        {
+            "image": "/img/photo/have-done-6.jpg",
+            "alt": "image 3"
+        }
+    ]
+}

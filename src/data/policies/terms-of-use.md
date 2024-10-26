@@ -1,0 +1,56 @@
+---
+#preview details
+title: "Términos y Condiciones de Uso"
+bread: "Policy"
+short: '"Aquí establecemos las reglas y responsabilidades para usar nuestra plataforma, asegurando una experiencia segura y satisfactoria para todos."'
+
+#full details
+
+description:
+  - layout: 1
+    title: Términos y Condiciones
+    content: ¡Bienvenido a StartUp Minded!<p>Estos términos y condiciones describen las normas y regulaciones para el uso del sitio web de StartUp Minded, ubicado en <a href=http://startupminded.com>startupminded.com</a>.<p>Al acceder a este sitio web, asumimos que aceptas estos términos y condiciones. No continúes utilizando StartUp Minded si no estás de acuerdo con todos los términos y condiciones establecidos en esta página.<p><strong>Cookies:</strong><p>Actualmente, StartUp Minded no utiliza cookies en su sitio web. Esta política se detalla en nuestra Política de Privacidad.<p><strong>Propiedad Intelectual:</strong><p>A menos que se indique lo contrario, StartUp Minded y/o sus licenciantes poseen los derechos de propiedad intelectual sobre todo el material en StartUp Minded. Todos los derechos de propiedad intelectual están reservados. Puedes acceder a este material desde StartUp Minded para tu uso personal, sujeto a las restricciones establecidas en estos términos y condiciones.<p>No debes:<ul><li><p>Copiar o republicar material de StartUp Minded.<li><p>Vender, alquilar o sublicenciar material de StartUp Minded.<li><p>Reproducir, duplicar o copiar material de StartUp Minded.<li><p>Redistribuir contenido de StartUp Minded.</ul><p>Este Acuerdo comenzará en la fecha del presente.<p><strong>Comentarios:</strong><p>Partes de este sitio web permiten a los usuarios enviar comentarios sobre el trabajo realizado. Estos comentarios pueden enviarse por correo electrónico u otras fuentes. La agencia tiene la autoridad de decidir qué comentarios se mostrarán en el sitio web después de la finalización del proyecto. Los comentarios no reflejan necesariamente las opiniones de StartUp Minded. En la medida permitida por las leyes aplicables, StartUp Minded no será responsable de los Comentarios ni de ninguna responsabilidad, daños o gastos causados y/o sufridos como resultado de cualquier uso de y/o publicación de y/o aparición de los Comentarios en este sitio web.<p>StartUp Minded se reserva el derecho de monitorear todos los Comentarios y eliminar cualquier Comentario que pueda considerarse inapropiado, ofensivo o que cause una infracción de estos Términos y Condiciones.<p>Garantizas y representas que:<ul><li><p>Tienes derecho a publicar los Comentarios en nuestro sitio web y tienes todas las licencias y consentimientos necesarios para hacerlo.<li><p>Los Comentarios no invaden ningún derecho de propiedad intelectual, incluyendo sin limitación derechos de autor, patentes o marcas registradas de terceros.<li><p>Los Comentarios no contienen material difamatorio, calumnioso, ofensivo, indecente o de otro modo ilegal, que sea una invasión de la privacidad.<li><p>Los Comentarios no se utilizarán para solicitar o promover negocios o costumbres, ni para presentar actividades comerciales o actividades ilegales.</ul><p>Por la presente, otorgas a StartUp Minded una licencia no exclusiva para usar, reproducir, editar y autorizar a otros a usar, reproducir y editar cualquiera de tus Comentarios en cualquier forma, formato o medio.<p><strong>Enlaces a Nuestro Contenido:</strong><p>Las siguientes organizaciones pueden enlazar a nuestro sitio web sin aprobación previa por escrito:<ul><li><p>Agencias gubernamentales.<li><p>Motores de búsqueda.<li><p>Organizaciones de noticias.<li><p>Distribuidores de directorios en línea que enlazan a nuestro sitio web de la misma manera que enlazan a los sitios web de otros negocios listados.<li><p>Empresas acreditadas a nivel de sistema, excepto organizaciones sin fines de lucro solicitantes, centros comerciales benéficos y grupos de recaudación de fondos benéficos que no pueden enlazar a nuestro sitio web.</ul><p>Estas organizaciones pueden enlazar a nuestra página de inicio, a publicaciones o a otra información del sitio web siempre que el enlace&#58 (a) no sea engañoso de ninguna manera; (b) no implique falsamente patrocinio, respaldo o aprobación de la parte que enlaza y sus productos y/o servicios; y (c) encaje dentro del contexto del sitio de la parte que enlaza.<p>Podemos considerar y aprobar otras solicitudes de enlaces de los siguientes tipos de organizaciones:<ul><li><p>Fuentes de información al consumidor y/o empresarial comúnmente conocidas.<li><p>Sitios de la comunidad .com.<li><p>Asociaciones u otros grupos que representen organizaciones benéficas.<li><p>Distribuidores de directorios en línea.<li><p>Portales de Internet.<li><p>Firmas de contabilidad, derecho y consultoría.<li><p>Instituciones educativas y asociaciones comerciales.</ul><p>Aprobaremos solicitudes de enlaces de estas organizaciones si decidimos que&#58 (a) el enlace no nos hará parecer desfavorables a nosotros mismos o a nuestros negocios acreditados; (b) la organización no tiene registros negativos con nosotros; (c) el beneficio para nosotros de la visibilidad del enlace compensa la ausencia de StartUp Minded; y (d) el enlace está en el contexto de información general de recursos.<p>Estas organizaciones pueden enlazar a nuestra página de inicio siempre que el enlace&#58 (a) no sea engañoso de ninguna manera; (b) no implique falsamente patrocinio, respaldo o aprobación de la parte que enlaza y sus productos o servicios; y (c) encaje dentro del contexto del sitio de la parte que enlaza.<p>Si eres una de las organizaciones listadas y estás interesado en enlazar a nuestro sitio web, debes informarnos enviando un correo electrónico a <a href=mailto:startupminded@gmail.com>startupminded@gmail.com</a> o <a href=mailto:help@startupminded.com>help@startupminded.com</a>. Por favor, incluye tu nombre, el nombre de tu organización, información de contacto, la URL de tu sitio, una lista de las URLs desde las cuales pretendes enlazar a nuestro sitio web, y una lista de las URLs en nuestro sitio a las cuales te gustaría enlazar. Espera de 2 a 3 semanas para una respuesta.<p>Las organizaciones aprobadas pueden enlazar a nuestro sitio web de la siguiente manera:<ul><li><p>Usando nuestro nombre corporativo.<li><p>Usando el localizador uniforme de recursos al que se enlaza.<li><p>Usando cualquier otra descripción de nuestro sitio web al que se enlaza que tenga sentido dentro del contexto y formato del contenido en el sitio de la parte que enlaza.</ul><p>No se permitirá el uso del logotipo de StartUp Minded u otras imágenes para enlazar sin un acuerdo de licencia de marca registrada.<p><strong>Responsabilidad del Contenido:</strong><p>No seremos responsables por el contenido que aparezca en tu sitio web. Aceptas proteger y defendernos contra todas las reclamaciones que se presenten en tu sitio web. Ningún enlace debe aparecer en ningún sitio web que pueda interpretarse como difamatorio, obsceno o criminal, o que infrinja, viole o promueva la infracción u otra violación de los derechos de terceros.<p><strong>Reserva de Derechos:</strong><p>Nos reservamos el derecho de solicitar que elimines todos los enlaces o cualquier enlace específico a nuestro sitio web. Aceptas eliminar inmediatamente todos los enlaces a nuestro sitio web a petición. También nos reservamos el derecho de modificar estos términos y condiciones y su política de enlaces en cualquier momento. Al continuar enlazando a nuestro sitio web, aceptas estar sujeto y seguir estos términos y condiciones de enlace.<p><strong>Eliminación de Enlaces de Nuestro Sitio Web:</strong><p>Si encuentras algún enlace en nuestro sitio web que sea ofensivo por cualquier motivo, puedes contactarnos e informarnos en cualquier momento. Consideraremos las solicitudes para eliminar enlaces, pero no estamos obligados a hacerlo ni a responderte directamente.<p>No garantizamos que la información en este sitio web sea correcta. No garantizamos su integridad o exactitud, ni prometemos asegurar que el sitio web permanezca disponible o que el material en el sitio web se mantenga actualizado.<p><strong>Descargo de Responsabilidad:</strong><p>En la máxima medida permitida por la ley aplicable, excluimos todas las representaciones, garantías y condiciones relacionadas con nuestro sitio web y el uso de este sitio web. Nada en este descargo de responsabilidad:<ul><li><p>Limitará o excluirá nuestra o tu responsabilidad por muerte o lesiones personales.<li><p>Limitará o excluirá nuestra o tu responsabilidad por fraude o tergiversación fraudulenta.<li><p>Limitará alguna de nuestras o tus responsabilidades de una manera que no esté permitida por la ley aplicable; o<li><p>Excluirá alguna de nuestras o tus responsabilidades que no puedan ser excluidas por la ley aplicable.</ul><p>Las limitaciones y prohibiciones de responsabilidad establecidas en esta Sección y en otro lugar en este descargo de responsabilidad&#58 (a) están sujetas al párrafo anterior; y (b) rigen todas las responsabilidades que surjan bajo el descargo de responsabilidad, incluyendo responsabilidades que surjan en contrato, en agravio y por incumplimiento del deber legal.<p>Mientras el sitio web y la información y servicios en el sitio web se proporcionen de forma gratuita, no seremos responsables por ninguna pérdida o daño de cualquier naturaleza.
+      
+    divider: true
+
+  - layout: 2
+    title: Benefits
+    content:
+      <p>Our architectural work improves people's lives. We work closely with clients to create functional solutions that creatively respond to the needs of individuals and organizations. From corporate facility innovation to commercial developments, we create beautiful, balanced designs fueled by big ideas.</p>
+      <p>
+    list:
+      - 3D Modeling
+      - Programs to Map Territory
+      - Robotics and AI Technology
+      - Material Simulation
+    divider: false
+
+gallery:
+  - image: /img/covers/1.jpg
+    alt: image
+
+  - image: /img/covers/2.jpg
+    alt: image
+
+  - image: /img/covers/4.jpg
+    alt: image
+
+faq:
+  subtitle: Have Some Questions?
+  title: We Can Help!
+  button:
+    label: More Questions?
+    link: /contact
+  items:
+    - label: General information
+      content: <p>Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
+
+    - label: Management of personal data
+      content: <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
+
+    - label: Does Ruizarch accept article submissions?
+      content: <p>Netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
+
+    - label: What is the Ruizarch insights app?
+      content: <p>Malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
+---

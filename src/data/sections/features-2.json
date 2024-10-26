@@ -1,0 +1,34 @@
+{
+    "items": [
+        {
+            "title": "Software <br>Development",
+            "text": "texto 1 software",
+            "list": [
+                "Web Applications",
+                "Agile Development",
+                "Scalability and Performance",
+                "Security and Maintenance"
+            ]
+        },
+        {
+            "title": "Professional <br>Design",
+            "text": "Texto 2 design",
+            "list": [
+                "User-centered design (UX)",
+                "Responsive interfaces (UI)",
+                "Attractive visual design",
+                "Usability optimization"
+            ]
+        },
+        {
+            "title": "API <br>Integrations",
+            "text": "Texto 3 API integrations",
+            "list": [
+                "Third-party Integrations",
+                "Process Automation",
+                "Improvement in Operational Efficiency",
+                "Custom APIs"
+            ]
+        }
+    ]
+}

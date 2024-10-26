@@ -1,0 +1,159 @@
+{
+    "settings": {
+        "siteName": "StartUp Minded",
+        "siteDescription": "Innovación y creatividad al servicio de tu proyecto digital. Desarrollamos sitios web y aplicaciones dinámicas, optimizados para SEO y diseñados para ofrecer una experiencia única en cada interacción.",
+        "siteKeywords": "desarrollo web, diseño web, creación de sitios web, diseño responsivo, desarrollo de aplicaciones, soluciones digitales, SEO, optimización SEO, usabilidad web, experiencia de usuario, UX/UI, diseño gráfico web, desarrollo frontend, desarrollo backend, aplicaciones web, sitios web personalizados, tecnologías web, transformación digital, rendimiento web, plataformas digitales, PYMES",
+        "formspreeURL": "https://formspree.io/f/mwpedgbe",
+        "mailchimp": {
+            "url": "",
+            "key": ""
+        },
+        "perPage": 6
+    },
+    "header": {
+        "logo": {
+            "image": "/img/logo/logo.png",
+            "alt": "Logo"
+        },
+        "menu": [
+            {
+                "label": "Home",
+                "link": "/",
+                "children": 0
+            },
+            {
+                "label": "Services",
+                "link": "/services",
+                "children": 0
+            },
+            {
+                "label": "Projects",
+                "link": "/projects",
+                "children": 0
+            },
+            {
+                "label": "Blog",
+                "link": "/blog",
+                "children": 0
+            },
+            {
+                "label": "Contact Us",
+                "link": "/contact",
+                "children": 0
+            },
+            {
+                "label": "Other",
+                "link": "/team",
+                "children": [
+                    {
+                        "label": "Coming",
+                        "link": "/coming-soon"
+                    },
+                    {
+                        "label": "About",
+                        "link": "/about"
+                    },
+                    {
+                        "label": "Team",
+                        "link": "/team"
+                    },
+                    {
+                        "label": "Team Member",
+                        "link": "/team/team-01"
+                    },
+                    {
+                        "label": "Brief",
+                        "link": "/brief"
+                    },
+                    {
+                        "label": "404",
+                        "link": "/404"
+                    }
+                ]
+            }
+        ]
+    },
+    "footer": {
+        "logo": {
+            "image": "/img/logo/logo.png",
+            "alt": "Logo"
+        },
+        "copy": "© 2024 StartUp Minded. All rights reserved.",
+        "menu": [
+            {
+                "label": "About",
+                "link": "/about"
+            },
+            {
+                "label": "Services",
+                "link": "/services"
+            },
+            {
+                "label": "Projects",
+                "link": "/projects"
+            },
+            {
+                "label": "Blog",
+                "link": "/blog"
+            },
+            {
+                "label": "Contact",
+                "link": "/contact"
+            }
+        ]
+    },
+    "social": [
+        {
+            "link": "https://facebook.com",
+            "title": "Facebook"
+        },
+        {
+            "link": "https://twitter.com",
+            "title": "Twitter"
+        },
+        {
+            "link": "https://instagram.com",
+            "title": "Instagram"
+        },
+        {
+            "link": "https://youtube.com",
+            "title": "Youtube"
+        }
+    ],
+    "projects": {
+        "categories": [
+            {
+                "name": "Architecture",
+                "slug": "architecture"
+            },
+            {
+                "name": "Interior",
+                "slug": "interior"
+            },
+            {
+                "name": "Decor",
+                "slug": "decor"
+            }
+        ]
+    },
+    "team": {
+        "categories": [
+            {
+                "name": "Executive",
+                "slug": "executive"
+            },
+            {
+                "name": "Data centers",
+                "slug": "data-centers"
+            },
+            {
+                "name": "Education",
+                "slug": "education"
+            },
+            {
+                "name": "Workplace",
+                "slug": "workplace"
+            }
+        ]
+    }
+}

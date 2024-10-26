@@ -1,0 +1,92 @@
+/* Contenedor de la imagen con full width */
+.full-width-news-image {
+  width: 100%;
+  /* Asegura que la imagen ocupe todo el ancho del contenedor */
+  height: 300px;
+  /* Ajusta la altura como lo necesites */
+  border-radius: 10px 10px 0 0;
+  /* Bordes redondeados solo en la parte superior */
+  overflow: hidden;
+  /* Evita que el contenido se desborde */
+}
+
+/* Imagen que se ajusta al contenedor */
+.mil-news-image {
+  width: 100%;
+  /* La imagen ocupa todo el ancho del contenedor */
+  height: 100%;
+  /* La imagen ocupa toda la altura del contenedor */
+  object-fit: cover;
+  /* Ajusta la imagen para que cubra el contenedor sin deformarse */
+}
+
+/* Contenedor del texto debajo de la imagen */
+.mil-news-description {
+  padding: 20px;
+  background-color: #fff;
+  /* Fondo blanco para el texto */
+  border-radius: 0 0 10px 10px;
+  /* Bordes redondeados en la parte inferior */
+  text-align: center;
+  /* Centrar el texto */
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  /* Sombra suave debajo de la tarjeta */
+}
+
+/* Título y descripción */
+.mil-news-description h4 {
+  font-size: 1.5rem;
+  margin-bottom: 10px;
+  color: #333;
+}
+
+.mil-news-description p {
+  font-size: 1rem;
+  color: #666;
+}
+
+.button-ideas-and-news {
+  display: inline-block;
+  position: relative;
+  font-size: 1rem;
+  color: #007bff; /* Color del texto */
+  text-decoration: none;
+  font-weight: bold;
+  padding: 10px 0;
+  transition: color 0.3s ease-in-out; /* Transición para el color */
+}
+
+.button-ideas-and-news::after {
+  content: '';
+  position: absolute;
+  width: 100%;
+  height: 2px;
+  background-color: #FF7F50; /* Color de la línea debajo */
+  bottom: 0;
+  left: 0;
+  transition: width 0.3s ease-in-out; /* Animación al reducir el ancho de la línea */
+}
+
+.button-ideas-and-news:hover::after {
+  width: 0; /* La línea se va al hacer hover */
+}
+
+.button-ideas-and-news::before {
+  content: '→'; /* Flecha hacia la derecha */
+  position: absolute;
+  opacity: 0; /* Inicialmente invisible */
+  right: -20px;
+  font-size: 1.5rem; 
+  transition: opacity 0.3s ease-in-out, right 0.3s ease-in-out;
+  transition-delay: 0.5s;
+}
+
+.button-ideas-and-news:hover::before {
+  opacity: 1; 
+  right: -30px; 
+}
+
+.button-ideas-and-news:hover {
+  color: #FF7F50;
+}
+

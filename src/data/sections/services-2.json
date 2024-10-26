@@ -1,0 +1,21 @@
+{
+    "title": "What We Do",
+    "description": "Ofrecemos orientación estratégica en tecnología para enfrentar los desafíos y aprovechar oportunidades manteniendo la competitividad en el mercado.",
+    "items": [
+        {
+            "title": "Desarrollo Web",
+            "text": "Creamos sitios web modernos, funcionales y optimizados, adaptados a las necesidades de tu negocio. Utilizamos las últimas tecnologías asegurando un rendimiento óptimo y una experiencia de usuario excepcionales.",
+            "link": "/services/service-1"
+        },
+        {
+            "title": "Integración IA",
+            "text": "Utilizamos la inteligencia artificial para optimizar procesos y ofrecer experiencias más personalizadas a tus clientes. Mejorando la competitividad de tu emprendimiento.",
+            "link": "/services/service-2"
+        },
+        {
+            "title": "Diseño",
+            "text": "Diseñamos interfaces que combinan estética, funcionalidad y una navegación intuitiva. Nuestro enfoque en el usuario garantiza una gran experiencia digital.",
+            "link": "/services/service-3"
+        }
+    ]
+}

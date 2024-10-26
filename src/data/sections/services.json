@@ -1,0 +1,27 @@
+{
+    "title": "What We Do",
+    "subtitle": "Services",
+    "items": [
+        {
+            "icon": "/img/icons/3.svg",
+            "num": "01.",
+            "title": "Interior Decor",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod labore aliqua.",
+            "link": "/services/service-1"
+        },
+        {
+            "icon": "/img/icons/5.svg",
+            "num": "02.",
+            "title": "Interior Decor",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod labore aliqua.",
+            "link": "/services/service-2"
+        },
+        {
+            "icon": "/img/icons/4.svg",
+            "num": "03.",
+            "title": "Interior Decor",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod labore aliqua.",
+            "link": "/services/service-3"
+        }
+    ]
+}
