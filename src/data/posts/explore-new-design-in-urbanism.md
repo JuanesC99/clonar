@@ -13,19 +13,22 @@ author: Nguta Ithya
 short: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius sequi commodi dignissimos.
 
 #full details
-introTitle: Explore new <span class="mil-accent">design</span><br> in urbanism
+introTitle: Explora nuevos <span class="mil-accent">diseños</span><br> en urbanismo
 ---
 
-Gutem temporibus quae facilis totam, dolorem laborum optio laudantium explicabo quia ea. Officia beatae excepturi adipisci? Nobis consequatur ullam officiis adipisci assumenda, voluptas optio, commodi, soluta itaque error consectetur cupiditate vero voluptatem architecto blanditiis quidem amet. Quod ipsam consequuntur distinctio velit sed ipsum quisquam, itaque placeat error non animi quam aut similique nulla ab. Quaerat dicta, dolores veritatis magnam quae aut omnis in porro.
 
-###### Voluptatem odit ullam veritatis
+Explora las propuestas más avanzadas en diseño urbano, donde la creatividad y la innovación se unen para dar forma a ciudades más habitables, sostenibles y humanas. En este espacio, presentamos proyectos que abordan los desafíos contemporáneos del urbanismo, combinando funcionalidad y estética para transformar el paisaje urbano en beneficio de la comunidad. Desde la planificación de áreas verdes y espacios públicos hasta el desarrollo de zonas residenciales y comerciales, cada diseño refleja un compromiso con la sostenibilidad y la calidad de vida.
 
-Omnis consectetur in libero! Quo animi minus sunt, excepturi inventore! Recusandae enim fugit saepe mollitia laboriosam minima sapiente laborum aspernatur ut! Voluptatibus tempora cupiditate nulla cum dicta odit unde eius sit molestias corrupti pariatur illum aspernatur blanditiis, dolor earum quidem incidunt eligendi magnam obcaecati iure quis corporis. Perspiciatis rem provident aliquid iusto temporibus, exercitationem voluptatibus accusamus amet ratione atque, dolor vel necessitatibus illo ipsa officia, sunt quia magni saepe velit ipsum sapiente blanditiis minima.
+###### Innovación en Arquitectura
 
-- Voluptate aspernatur
-- Fugiat asperiores
-- Doloremque quidem porro
-- Numquam porro sequi
-- Laudantium quis
+Cada proyecto arquitectónico aquí destacado no solo embellece nuestras ciudades, sino que también contribuye a fomentar la inclusión y la interacción social. Estos diseños están pensados para adaptarse a las necesidades de las personas, mejorando la accesibilidad y promoviendo un sentido de pertenencia en los espacios compartidos. La arquitectura contemporánea en el ámbito del urbanismo se enfoca en la creación de lugares que no solo sean funcionales, sino también inspiradores y resilientes frente a los cambios y desafíos del futuro.
 
-Voluptatem odit ullam veritatis corrupti officia non aperiam eius vero amet, sed porro blanditiis, harum, quo fugit cupiditate. Maxime quaerat ratione
+- Diseño Sostenible
+- Integración de Áreas Verdes
+- Soluciones de Movilidad
+- Espacios Públicos Inclusivos
+- Adaptación Climática
+
+
+Únete a nosotros en este recorrido por los nuevos diseños en urbanismo y descubre cómo la planificación urbana puede transformar el entorno para hacer nuestras ciudades más verdes, conectadas y sostenibles. Aquí, cada propuesta arquitectónica busca redefinir la manera en que interactuamos con nuestro entorno, creando espacios que promuevan el bienestar y la cohesión social en un contexto de crecimiento y cambio constante.
+

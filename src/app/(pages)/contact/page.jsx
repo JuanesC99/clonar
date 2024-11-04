@@ -41,12 +41,6 @@ const Contact = () => {
 
                             <div className="mil-sidebar-info">
 
-                                <h6 className="mil-upper mil-up mil-mb-30">Headquarters</h6>
-                                <ul className="mil-list mil-dark mil-up mil-mb-30">
-                                    <li>USA</li>
-                                    <li>New York - 1800 Wazee Street</li>
-                                    <li>Suite 300 NY, NY 80202</li>
-                                </ul>
                                 <h6 className="mil-upper mil-up mil-mb-30">Phone</h6>
                                 <ul className="mil-list mil-dark mil-up mil-mb-30">
                                     <li>+7 (200) 600-30-30</li>
@@ -63,30 +57,8 @@ const Contact = () => {
                         </div>
 
                     </div>
-                    <div className="col-lg-7">
-                        <div className="row">
-                            <div className="col-lg-4">
-                                <div className="mil-up mil-mb-60">
-                                    <span className="mil-suptitle mil-upper mil-up mil-mb-30">Wills Point</span>
-                                    <p className="mil-up">10233 Gaillard Lake Est <br/>Suite 420 <br/>Houston, TX 75169 <br/>(903) 560 - 9830</p>
-                                </div>
-                            </div>
-                            <div className="col-lg-4">
-                                <div className="mil-up mil-mb-60">
-                                    <span className="mil-suptitle mil-upper mil-up mil-mb-30">Chicago</span>
-                                    <p className="mil-up">10233 Gaillard Lake Est <br/>Suite 420 <br/>Houston, TX 75169 <br/>(903) 560 - 9830</p>
-                                </div>
-                            </div>
-                            <div className="col-lg-4">
-                                <div className="mil-up mil-mb-60">
-                                    <span className="mil-suptitle mil-upper mil-up mil-mb-30">Harriman</span>
-                                    <p className="mil-up">10233 Gaillard Lake Est <br/>Suite 420 <br/>Houston, TX 75169 <br/>(903) 560 - 9830</p>
-                                </div>
-                            </div>
-                        </div>
                     </div>
-                </div>
-            </div>
+                    </div>
         </section>
         {/* about end */}
 

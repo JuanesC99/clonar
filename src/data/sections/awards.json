@@ -1,9 +1,9 @@
 {
-    "title": "Architecture Awards",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua quis ipsum gravida.",
+    "title": "Premios de Arquitectura",
+    "description": "Los Premios de Arquitectura reconocen la excelencia en diseño arquitectónico, premiando proyectos innovadores y sostenibles que inspiran y transforman espacios. Este galardón destaca el impacto y la creatividad de arquitectos y firmas de todo el mundo, celebrando contribuciones que redefinen la arquitectura contemporánea.",
     "button": {
         "link": "/blog",
-        "label": "See All"
+        "label": "Ver todas"
     },
     "image": {
         "url": "/img/photo/2.jpg",
@@ -11,22 +11,22 @@
     },
     "items": [
         {
-            "title": "Designs of the Year",
+            "title": "Diseños del Año",
             "year": "2022",
             "image": "/img/photo/1.jpg"
         },
         {
-            "title": "Firms of the Year",
+            "title": "Firmas del Año",
             "year": "2019",
             "image": "/img/photo/2.jpg"
         },
         {
-            "title": "Product Winners",
+            "title": "Productos Ganadores",
             "year": "2014",
             "image": "/img/photo/5.jpg"
         },
         {
-            "title": "Photography Winners",
+            "title": "Fotografías Ganadoras",
             "year": "2008",
             "image": "/img/photo/4.jpg"
         }

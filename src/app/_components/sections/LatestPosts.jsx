@@ -1,6 +1,6 @@
 import Date from '@library/date';
 import Link from "next/link";
-import '@styles/css/card.css';  // Asegúrate de que el archivo CSS esté bien importado
+import '@styles/css/card.css';  
 
 const LatestPostsSection = ({ posts, paddingTop }) => {
     return (
